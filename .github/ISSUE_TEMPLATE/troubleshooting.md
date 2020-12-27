@@ -1,9 +1,9 @@
 ---
 name: TroubleShooting
-about: 실습 진행 중에 발생한 문제에 대한 질문
+about: 해결이 안되는 문제에 대한 질문
 title: "[TroubleShooting]"
-labels: help wanted
-assignees: ''
+labels: TroubleShooting
+assignees: 'TroubleShooting'
 
 ---
 
