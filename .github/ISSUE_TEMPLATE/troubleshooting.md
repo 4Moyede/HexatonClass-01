@@ -3,7 +3,7 @@ name: TroubleShooting
 about: 해결이 안되는 문제에 대한 질문
 title: "[TroubleShooting]"
 labels: TroubleShooting
-assignees: 'TroubleShooting'
+assignees: TroubleShooting
 
 ---
 

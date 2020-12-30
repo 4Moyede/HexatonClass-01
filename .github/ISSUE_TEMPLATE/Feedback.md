@@ -1,10 +1,9 @@
 ---
-
 name: Feedback
 about: 본인이 짠 Code Feedback을 원할 때 질문
 title: "[Feedback]"
 labels: Feedback
-assignees: 'Feedback'
+assignees: Feedback
 
 ---
 
