@@ -1,7 +1,7 @@
 ---
 name: Python Code
 about: 본인이 짠 Code에서 발생한 이슈
-title: "[Python]"
+title: "[Python] "
 labels: Python Code
 assignees: ''
 
