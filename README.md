@@ -1,6 +1,6 @@
 # HexatonClass
 
-Hexaton Class에 오신 것을 환영합니다🙂
+여러분! Hexaton Class에 오신 것을 환영합니다🙂
 
 ## Introduction
 
