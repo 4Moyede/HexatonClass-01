@@ -91,3 +91,15 @@ _**그 역할을 우리는 Python이라는 프로그래밍 언어 도구를 이�
 2. 혼자서 Project를 설계하고 만들어내는 능력
 3. 수업을 들으며 개인 Portforlio 작성하는 방법
 4. 어디든 적용할 수 있는 Application 능력
+
+## Contact Us
+
+### 유혁준
+
+- Tel : 010-2481-4877
+- Github : https://github.com/yoomambo
+
+### 강형구
+
+- Tel : 010-2757-8499
+- Github : https://github.com/4Moyede
