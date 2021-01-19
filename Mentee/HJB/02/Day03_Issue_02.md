@@ -76,6 +76,18 @@
    "display_name": "Python 3.8 : galaxy",
    "language": "python",
    "name": "sample"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.9.1"
   }
  },
  "nbformat": 4,
