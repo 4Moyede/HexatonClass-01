@@ -30,17 +30,17 @@ while True:
     print('''
       원하는 계산을 입력하세요. (사칙연산만 가능)
                                              ''')
-    a = Calculator( int(input("피연산자1 : ")), input("연산기호 : ") , int(input("피연산자2 : ")) )
+    cal = Calculator( int(input("피연산자1 : ")), input("연산기호 : ") , int(input("피연산자2 : ")) )
 
 
-    if (a.symbol == "+"):
-        print("<결과> {} {} {} = {}".format(a.first, a.symbol, a.second, a.add()))
-    if (a.symbol == "-"):
-        print("<결과> {} {} {} = {}".format(a.first, a.symbol, a.second, a.sub()))
-    if (a.symbol == "*"):
-        print("<결과> {} {} {} = {}".format(a.first, a.symbol, a.second, a.mul()))
-    if (a.symbol == "/"):
-        print("<결과> {} {} {} = {}".format(a.first, a.symbol, a.second, a.div()))
+    if (cal.symbol == "+"):
+        print("<결과> {} {} {} = {}".format(cal.first, cal.symbol, cal.second, cal.add()))
+    if (cal.symbol == "-"):
+        print("<결과> {} {} {} = {}".format(cal.first, cal.symbol, cal.second, cal.sub()))
+    if (cal.symbol == "*"):
+        print("<결과> {} {} {} = {}".format(cal.first, cal.symbol, cal.second, cal.mul()))
+    if (cal.symbol == "/"):
+        print("<결과> {} {} {} = {}".format(cal.first, cal.symbol, cal.second, cal.div()))
 
     switch = input("계속하시려면 아무 키나, 끝내시려면 N를 입력하세요. ") 
     print("-------------------{} {}--------------------\n".format(switch, "입력"))
