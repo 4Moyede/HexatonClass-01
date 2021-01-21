@@ -42,8 +42,8 @@ while True:
     if (a.symbol == "/"):
         print("<결과> {} {} {} = {}".format(a.first, a.symbol, a.second, a.div()))
 
-    switch = str(input("계속하시려면 아무 키나, 끝내시려면 N를 입력하세요. ")) 
+    switch = input("계속하시려면 아무 키나, 끝내시려면 N를 입력하세요. ") 
     print("-------------------{} {}--------------------\n".format(switch, "입력"))
     if(switch == 'N' or switch == 'n'):
         print("계산기를 종료합니다.")
-        break
+        break 
