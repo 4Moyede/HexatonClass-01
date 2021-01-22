@@ -27,6 +27,7 @@ class calculator :
 
 print('초기의 값은 0입니다')
 
+
 cal = calculator()
 
 while True:
